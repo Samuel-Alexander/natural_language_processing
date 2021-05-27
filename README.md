@@ -8,4 +8,3 @@ Core tools used include:
 Sentiment Analysis
 Natural Language Processing
 Named Entity Recognition
- 
